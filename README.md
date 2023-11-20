@@ -6,6 +6,8 @@
 ### 행동 패턴 (Behavioural Patterns)
 - Command Pattern
 - Strategy Pattern
+- Observer Pattern(Not Yet)
+- Mediator Pattern(Not Yet)
 
 
 ## 아키텍쳐
