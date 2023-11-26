@@ -8,10 +8,15 @@
 - Prototype Pattern
 - Builder Pattern
 ### 구조 패턴 (Structural Patterns)
+- Decorator Pattern
 ### 행동 패턴 (Behavioural Patterns)
+- Chain of Responsibility Pattern
 - Command Pattern
-- Strategy Pattern
+- Iterator Pattern
 - Observer Pattern
+- State Pattern
+- Strategy Pattern
+
 - Mediator Pattern
 
 
