@@ -28,6 +28,13 @@
 - [ ] Template Method Pattern
 - [ ] Visitor Pattern
 
+### ETC
+- [ ] Operation Result Pattern
+<!--
+https://www.milanjovanovic.tech/blog/8-tips-to-write-clean-code
+https://medium.com/@cummingsi1993/the-operation-result-pattern-a-simple-guide-fe10ff959080
+-->
+
 ## 아키텍쳐
 ### MVP 아키텍쳐
 - [UDemy](https://www.udemy.com/course/mvc-architecture-for-unity)
