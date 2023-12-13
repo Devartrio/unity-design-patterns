@@ -25,7 +25,7 @@
 - [x] Observer Pattern
 - [x] State Pattern
 - [x] Strategy Pattern
-- [ ] Template Method Pattern
+- [x] Template Method Pattern
 - [ ] Visitor Pattern
 
 ### ETC
