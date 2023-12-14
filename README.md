@@ -21,7 +21,7 @@
 - [ ] Interpreter Pattern
 - [x] Iterator Pattern
 - [x] Mediator Pattern
-- [ ] Memento Pattern
+- [x] Memento Pattern
 - [x] Observer Pattern
 - [x] State Pattern
 - [x] Strategy Pattern
