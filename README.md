@@ -18,7 +18,7 @@
 ### 행동 패턴 (Behavioural Patterns)
 - [x] Chain of Responsibility Pattern
 - [x] Command Pattern
-- [ ] Interpreter Pattern
+- [x] Interpreter Pattern
 - [x] Iterator Pattern
 - [x] Mediator Pattern
 - [x] Memento Pattern
