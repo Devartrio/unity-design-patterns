@@ -5,7 +5,7 @@
 - [ ] Abstract Factory Pattern
 - [x] Builder Pattern
 - [x] Factory Method Pattern
-- [ ] Prototype Pattern
+- [x] Prototype Pattern
 - [x] Singleton Pattern
 ### 구조 패턴 (Structural Patterns)
 - [ ] Adapter Pattern
