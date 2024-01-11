@@ -2,7 +2,7 @@
 
 ## 디자인 패턴
 ### 생성 패턴(Creational Patterns)
-- [ ] Abstract Factory Pattern
+- [x] Abstract Factory Pattern
 - [x] Builder Pattern
 - [x] Factory Method Pattern
 - [x] Prototype Pattern
