@@ -8,8 +8,8 @@
 - [x] Prototype Pattern
 - [x] Singleton Pattern
 ### 구조 패턴 (Structural Patterns)
-- [ ] Adapter Pattern
-- [ ] Bridge Pattern
+- [x] Adapter Pattern
+- [x] Bridge Pattern
 - [ ] Composite Pattern
 - [ ] Decorator Pattern
 - [ ] Facade Pattern
