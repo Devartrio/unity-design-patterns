@@ -10,7 +10,7 @@
 ### 구조 패턴 (Structural Patterns)
 - [x] Adapter Pattern
 - [x] Bridge Pattern
-- [ ] Composite Pattern
+- [x] Composite Pattern
 - [ ] Decorator Pattern
 - [ ] Facade Pattern
 - [ ] Flyweight Pattern
