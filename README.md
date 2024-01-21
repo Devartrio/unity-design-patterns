@@ -11,7 +11,7 @@
 - [x] Adapter Pattern
 - [x] Bridge Pattern
 - [x] Composite Pattern
-- [ ] Decorator Pattern
+- [x] Decorator Pattern
 - [ ] Facade Pattern
 - [ ] Flyweight Pattern
 - [ ] Proxy Pattern
