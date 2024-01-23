@@ -142,6 +142,7 @@ namespace DesignPatterns.Facade
                                codeChecker.IsCodeCorrect(GetSecurityCode()) &&
                                               fundChecker.HaveEnoughMoney(cashToGet))
             {
+                fundChecker.WithdrawMoney(cashToGet);
                 Debug.Log("Transaction Complete\n");
             }
             else
