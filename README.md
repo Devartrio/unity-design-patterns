@@ -12,7 +12,7 @@
 - [x] Bridge Pattern
 - [x] Composite Pattern
 - [x] Decorator Pattern
-- [ ] Facade Pattern
+- [x] Facade Pattern
 - [ ] Flyweight Pattern
 - [ ] Proxy Pattern
 ### 행동 패턴 (Behavioural Patterns)
