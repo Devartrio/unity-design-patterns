@@ -13,7 +13,7 @@
 - [x] Composite Pattern
 - [x] Decorator Pattern
 - [x] Facade Pattern
-- [ ] Flyweight Pattern
+- [x] Flyweight Pattern
 - [ ] Proxy Pattern
 ### 행동 패턴 (Behavioural Patterns)
 - [x] Chain of Responsibility Pattern
