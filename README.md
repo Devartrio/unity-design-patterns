@@ -14,7 +14,7 @@
 - [x] Decorator Pattern
 - [x] Facade Pattern
 - [x] Flyweight Pattern
-- [ ] Proxy Pattern
+- [x] Proxy Pattern
 ### 행동 패턴 (Behavioural Patterns)
 - [x] Chain of Responsibility Pattern
 - [x] Command Pattern
