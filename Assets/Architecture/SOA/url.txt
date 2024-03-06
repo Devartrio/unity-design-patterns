@@ -1,0 +1,3 @@
+https://unity-atoms.github.io/unity-atoms/introduction/philosophy
+https://github.com/roboryantron/Unite2017
+https://github.com/richard-fine/scriptable-object-demo
